@@ -1,2 +1,2 @@
-# MLLM-Fabric Dataset (Coming soon)
+# MLLM-Fabric (Code and dataset will be released soon)
 This is the official repository for the paper "MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection"
