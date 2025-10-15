@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/limanwang/MLLM-Fabric)](./LICENSE)
 [![YouTube Video](https://img.shields.io/badge/Video-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=VeN7tr4-WvM)
-[![Paper Status](https://img.shields.io/badge/Paper-Accepted-blue)](https://arxiv.org/abs/2507.04351) <!-- 替换为实际论文链接 -->
+[![Paper Status](https://img.shields.io/badge/Paper-Accepted-blue)](https://arxiv.org/abs/2507.04351) 
 
 ---
 
@@ -22,12 +22,6 @@ This is the official repository for the paper:
 **MLLM-Fabric** is a robotic framework that leverages **multimodal large language models (MLLMs)** for intelligent fabric sorting and selection. It integrates **vision, touch, and pressure** sensing on a multimodal robotic platform, trained via **supervised fine-tuning** and **explanation-guided distillation**.
 
 We introduce a dataset of **220 fabrics** with RGB, visuotactile, and pressure data. Our model, **Fabric-Llama-90B**, significantly outperforms vision-language baselines in both **attribute ranking** and **selection accuracy**.
-
----
-
-## 👥 Authors
-
-Liman Wang, Hanyang Zhong, Tianyuan Wang, Shan Luo, Jihong Zhu  
 
 ---
 
