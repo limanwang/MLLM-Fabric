@@ -31,13 +31,18 @@ Liman Wang, Hanyang Zhong, Tianyuan Wang, Shan Luo, Jihong Zhu
 
 ---
 
+### 🤖 Real-World Demo
 
+<p align="center">
+  <img src="media/image1.png" alt="Robot Demo" width="600"/>
+</p>
 
+---
 
 ### 🧠 System Architecture
 
 <p align="center">
-  <img src="media/image2.png" alt="System Architecture" width="600"/>
+  <img src="media/image2.png" alt="System Architecture" width="800"/>
 </p>
 
 ---
@@ -54,13 +59,7 @@ Liman Wang, Hanyang Zhong, Tianyuan Wang, Shan Luo, Jihong Zhu
 
 ---
 
-### 🤖 Real-World Demo
 
-<p align="center">
-  <img src="media/image1.png" alt="Robot Demo" width="600"/>
-</p>
-
----
 
 ## 📂 Contents (Coming Soon)
 
