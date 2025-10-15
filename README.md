@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/github/license/limanwang/MLLM-Fabric)](./LICENSE)
 [![YouTube Video](https://img.shields.io/badge/Video-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=VeN7tr4-WvM)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.04351-b31b1b.svg)](https://arxiv.org/abs/2507.04351)
 [![Paper Status](https://img.shields.io/badge/Paper-Accepted-blue)](https://arxiv.org/abs/2507.04351) 
 
 ---
@@ -16,6 +17,14 @@ This is the official repository for the paper:
 
 > **MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**  
 > Accepted to **IEEE Robotics and Automation Letters (RA-L)**
+
+## 📄 Paper
+
+You can read our full paper here:  
+[MLLM‑Fabric: Multimodal Large Language Model‑Driven Robotic Framework for Fabric Sorting and Selection (arXiv 2507.04351)](https://arxiv.org/abs/2507.04351)
+
+---
+
 
 ## 🧾 Abstract
 
