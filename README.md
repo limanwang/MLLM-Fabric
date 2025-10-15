@@ -47,7 +47,7 @@ We introduce a dataset of **220 fabrics** with RGB, visuotactile, and pressure d
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VeN7tr4-WvM">
-    <img src="https://img.youtube.com/vi/VeN7tr4-WvM/0.jpg" alt="Video Thumbnail" width="600"/>
+    <img src="https://img.youtube.com/vi/VeN7tr4-WvM/0.jpg" alt="Video Thumbnail" width="300"/>
   </a>
 </p>
 
