@@ -17,14 +17,27 @@ This is the official repository for the paper:
 > **MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**  
 > Accepted to **IEEE Robotics and Automation Letters (RA-L)**
 
-MLLM-Fabric is a novel framework that combines the power of **Multimodal Large Language Models (MLLMs)** with robotic systems to perform **fabric sorting and selection** in real-world scenarios. This project aims to bridge the gap between high-level language understanding and low-level robotic manipulation in complex environments.
+## 🧾 Abstract
+
+**MLLM-Fabric** is a robotic framework that leverages **multimodal large language models (MLLMs)** for intelligent fabric sorting and selection. It integrates **vision, touch, and pressure** sensing on a multimodal robotic platform, trained via **supervised fine-tuning** and **explanation-guided distillation**.
+
+We introduce a dataset of **220 fabrics** with RGB, visuotactile, and pressure data. Our model, **Fabric-Llama-90B**, significantly outperforms vision-language baselines in both **attribute ranking** and **selection accuracy**.
 
 ---
+
+## 👥 Authors
+
+Liman Wang, Hanyang Zhong, Tianyuan Wang, Shan Luo, Jihong Zhu  
+
+---
+
+
+
 
 ### 🧠 System Architecture
 
 <p align="center">
-  <img src="media/image2.pdf" alt="System Architecture" width="600"/>
+  <img src="media/image2.png" alt="System Architecture" width="600"/>
 </p>
 
 ---
@@ -44,7 +57,7 @@ MLLM-Fabric is a novel framework that combines the power of **Multimodal Large L
 ### 🤖 Real-World Demo
 
 <p align="center">
-  <img src="media/image1.pdf" alt="Robot Demo" width="600"/>
+  <img src="media/image1.png" alt="Robot Demo" width="600"/>
 </p>
 
 ---
@@ -54,7 +67,6 @@ MLLM-Fabric is a novel framework that combines the power of **Multimodal Large L
 - 🔧 Code for training and inference
 - 🧠 Model architecture and configuration
 - 🧵 Fabric dataset and annotations
-- 🤖 Robot control interface scripts
 - 📊 Benchmark results
 
 ---
