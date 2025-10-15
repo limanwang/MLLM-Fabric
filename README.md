@@ -6,7 +6,7 @@
 
 ---
 
-> 🚧 **Code and dataset will be released soon. Stay tuned!**  
+> 🚧 **Code and dataset will be released before 2025/10/30. Stay tuned!**  
 
 ---
 
