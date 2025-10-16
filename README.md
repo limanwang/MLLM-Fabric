@@ -4,12 +4,10 @@
 [![YouTube Video](https://img.shields.io/badge/Video-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=VeN7tr4-WvM)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.04351-b31b1b.svg)](https://arxiv.org/abs/2507.04351)
 [![Paper Status](https://img.shields.io/badge/Paper-Accepted-blue)](https://arxiv.org/abs/2507.04351) 
+[![Dataset on HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/EuniceF/MLLM-Fabric)
 
----
 
-> 🚧 **Code and dataset will be released before 2025/10/30. Stay tuned!**  
-
----
+> The **MLLM-Fabric Dataset** is available on [HuggingFace](https://huggingface.co/datasets/EuniceF/MLLM-Fabric) — feel free to download and explore!
 
 ## 📄 Overview
 
@@ -17,6 +15,7 @@ This is the official repository for the paper:
 
 > **MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**  
 > Accepted to **IEEE Robotics and Automation Letters (RA-L)**
+
 
 ## 📄 Paper
 
