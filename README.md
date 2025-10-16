@@ -33,6 +33,19 @@ We introduce a dataset of **220 fabrics** with RGB, visuotactile, and pressure d
 
 ---
 
+---
+
+### 🧵 Fabric Dataset Overview
+
+<p align="center">
+  <img src="media/fabric_RGB_images.png" alt="Fabric RGB Dataset" width="800"/>
+</p>
+
+This image showcases a selection of **220 different fabric samples** from our dataset. These high-resolution RGB images represent a wide variety of materials and textures, and are commonly used for tasks such as model training, fabric classification, and defect detection.
+
+---
+
+
 ### 🤖 Real-World Demo
 
 <p align="center">
