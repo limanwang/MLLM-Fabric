@@ -66,9 +66,6 @@ We introduce a dataset of **220 fabrics** with RGB, visuotactile, and pressure d
 ## 📂 Contents (Coming Soon)
 
 - 🔧 Code for training and inference
-- 🧠 Model architecture and configuration
-- 🧵 Fabric dataset and annotations
-- 📊 Benchmark results
 
 ---
 
