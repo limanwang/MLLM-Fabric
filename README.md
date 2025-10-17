@@ -15,14 +15,27 @@ This is the official repository for the paper:
 
 > **MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**  
 > Accepted to **IEEE Robotics and Automation Letters (RA-L)**
+>
 
 ### 🧵 Fabric Dataset Overview
+These images showcase fabric sample RGB and GelSight images from our dataset (including 220 different fabrics in total).
 
 <p align="center">
   <img src="media/fabric_RGB_images.png" alt="Fabric RGB Dataset" width="800"/>
 </p>
 
-This image showcases a selection of **220 different fabric samples** from our dataset.
+<p align="center">
+  <img src="media/tactile1.jpg" alt="Fabric RGB Dataset" width="500"/>
+</p>
+
+<p align="center">
+  <img src="media/tactile2.jpg" alt="Fabric RGB Dataset" width="500"/>
+</p>
+
+<p align="center">
+  <img src="media/tactile3.jpg" alt="Fabric RGB Dataset" width="500"/>
+</p>
+
 
 
 ## 📄 Paper
