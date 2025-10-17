@@ -25,7 +25,7 @@ These images showcase fabric sample RGB and GelSight images from our dataset (in
 </p>
 
 <p align="left">
-  <img src="media/tactile1.jpg" alt="Fabric RGB Dataset" width="400"/>
+  <img src="media/tactile2.jpg" alt="Fabric RGB Dataset" width="400"/>
 </p>
 
 
