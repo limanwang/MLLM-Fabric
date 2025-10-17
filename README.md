@@ -8,7 +8,6 @@
 [![RALLA Lab](https://img.shields.io/badge/RALLA-Lab-blueviolet?logo=github)](https://uyork-robotic-manipulation-lab.github.io/)
 
 
-> The **MLLM-Fabric Dataset** is available on [HuggingFace](https://huggingface.co/datasets/EuniceF/MLLM-Fabric) — feel free to download and explore!
 
 ## 📄 Overview
 
@@ -23,6 +22,8 @@ Accepted to **IEEE Robotics and Automation Letters (RA-L)**
 This work is from the [Robot-Assisted Living LAboratory (RALLA)](https://uyork-robotic-manipulation-lab.github.io/) at the University of York, UK.
 
 ### 🧵 Fabric Dataset Overview
+> The **MLLM-Fabric Dataset** is available on [HuggingFace](https://huggingface.co/datasets/EuniceF/MLLM-Fabric) — feel free to download and explore!
+
 These images showcase fabric sample RGB and GelSight images from our dataset (including 220 different fabrics in total).
 
 <p align="left">
