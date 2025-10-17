@@ -20,7 +20,7 @@ This is the official repository for the paper:
 ### 🧵 Fabric Dataset Overview
 These images showcase fabric sample RGB and GelSight images from our dataset (including 220 different fabrics in total).
 
-<p align="center">
+<p align="left">
   <img src="media/fabric_RGB_images.png" alt="Fabric RGB Dataset" width="800"/>
 </p>
 
