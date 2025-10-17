@@ -24,18 +24,9 @@ These images showcase fabric sample RGB and GelSight images from our dataset (in
   <img src="media/fabric_RGB_images.png" alt="Fabric RGB Dataset" width="800"/>
 </p>
 
-<p align="center">
-  <img src="media/tactile1.jpg" alt="Fabric RGB Dataset" width="500"/>
+<p align="left">
+  <img src="media/tactile1.jpg" alt="Fabric RGB Dataset" width="400"/>
 </p>
-
-<p align="center">
-  <img src="media/tactile2.jpg" alt="Fabric RGB Dataset" width="500"/>
-</p>
-
-<p align="center">
-  <img src="media/tactile3.jpg" alt="Fabric RGB Dataset" width="500"/>
-</p>
-
 
 
 ## 📄 Paper
