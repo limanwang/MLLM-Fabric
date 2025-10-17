@@ -1,5 +1,5 @@
 # 🧵 MLLM-Fabric: Multimodal LLM-Driven Robotic Framework for Fabric Sorting and Selection
-
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/limanwang/MLLM-Fabric)
 [![License](https://img.shields.io/github/license/limanwang/MLLM-Fabric)](./LICENSE)
 [![YouTube Video](https://img.shields.io/badge/Video-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=VeN7tr4-WvM)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.04351-b31b1b.svg)](https://arxiv.org/abs/2507.04351)
