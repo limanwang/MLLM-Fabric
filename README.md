@@ -1,29 +1,38 @@
 # 🧵 MLLM-Fabric: Multimodal LLM-Driven Robotic Framework for Fabric Sorting and Selection
-
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/limanwang/MLLM-Fabric)
 [![License](https://img.shields.io/github/license/limanwang/MLLM-Fabric)](./LICENSE)
 [![YouTube Video](https://img.shields.io/badge/Video-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=VeN7tr4-WvM)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.04351-b31b1b.svg)](https://arxiv.org/abs/2507.04351)
 [![Paper Status](https://img.shields.io/badge/Paper-Accepted-blue)](https://arxiv.org/abs/2507.04351) 
 [![Dataset on HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/EuniceF/MLLM-Fabric)
+[![RALLA Lab](https://img.shields.io/badge/RALLA-Lab-blueviolet?logo=github)](https://uyork-robotic-manipulation-lab.github.io/)
 
 
-> The **MLLM-Fabric Dataset** is available on [HuggingFace](https://huggingface.co/datasets/EuniceF/MLLM-Fabric) — feel free to download and explore!
 
 ## 📄 Overview
 
 This is the official repository for the paper:
 
 > **MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**  
-> Accepted to **IEEE Robotics and Automation Letters (RA-L)**
+
+Accepted to **IEEE Robotics and Automation Letters (RA-L)**
+
+## 🏫 About This Work
+
+This work is from the [Robot-Assisted Living LAboratory (RALLA)](https://uyork-robotic-manipulation-lab.github.io/) at the University of York, UK.
 
 ### 🧵 Fabric Dataset Overview
+> The **MLLM-Fabric Dataset** is available on [HuggingFace](https://huggingface.co/datasets/EuniceF/MLLM-Fabric) — feel free to download and explore!
 
-<p align="center">
+These images showcase fabric sample RGB and GelSight images from our dataset (including 220 different fabrics in total).
+
+<p align="left">
   <img src="media/fabric_RGB_images.png" alt="Fabric RGB Dataset" width="800"/>
 </p>
 
-This image showcases a selection of **220 different fabric samples** from our dataset. These high-resolution RGB images represent a wide variety of materials and textures, and are commonly used for tasks such as model training, fabric classification, and defect detection.
-
+<p align="left">
+  <img src="media/tactile2.jpg" alt="Fabric RGB Dataset" width="400"/>
+</p>
 
 
 ## 📄 Paper
