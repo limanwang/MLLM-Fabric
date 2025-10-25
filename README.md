@@ -73,11 +73,14 @@ We introduce a dataset of **220 fabrics** with RGB, visuotactile, and pressure d
 
 
 
-## 📂 Contents (Coming Soon)
+## 🏋️ Train
 
-- 🔧 Code for training and inference
+- 🔧 Code for training (now available!)
 
----
+> ✅ We have uploaded the training code used for supervised fine-tuning.  
+> It is based on the excellent [**Unsloth**](https://github.com/unslothai/unsloth) framework.  
+> Special thanks to the Unsloth team for their powerful and efficient LLM training tools!  
+> We highly recommend checking it out if you're working with LLM fine-tuning.
 
 ## 📜 License
 
