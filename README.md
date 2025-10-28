@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/limanwang/MLLM-Fabric)](./LICENSE)
 [![YouTube Video](https://img.shields.io/badge/Video-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=VeN7tr4-WvM)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.04351-b31b1b.svg)](https://arxiv.org/abs/2507.04351)
-[![Paper Status](https://img.shields.io/badge/Paper-Accepted-blue)](https://arxiv.org/abs/2507.04351) 
+[![Paper Status](https://img.shields.io/badge/Paper-Accepted-blue)](https://ieeexplore.ieee.org/abstract/document/11217170) 
 [![Dataset on HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/EuniceF/MLLM-Fabric)
 [![RALLA Lab](https://img.shields.io/badge/RALLA-Lab-blueviolet?logo=github)](https://uyork-robotic-manipulation-lab.github.io/)
 
