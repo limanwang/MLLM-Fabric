@@ -15,7 +15,7 @@ This is the official repository for the paper:
 
 > **MLLM-Fabric: Multimodal Large Language Model-Driven Robotic Framework for Fabric Sorting and Selection**  
 
-- 🎉Accepted to [**IEEE Robotics and Automation Letters (RA-L)**](https://ieeexplore.ieee.org/abstract/document/11217170) 
+- 🎉 Accepted to [**IEEE Robotics and Automation Letters (RA-L)**](https://ieeexplore.ieee.org/abstract/document/11217170) 
 
 - 📍 Poster presentation at [**ICRA 2026**](https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_5.html), Vienna, Austria.
 
